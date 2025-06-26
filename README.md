@@ -9,7 +9,7 @@ Web Developer , 3D Modelling
 * 🧠  I'm learning Laravel , React.js , Docker , TypeScript
 
 <a href="https://www.x.com/Juxmineknw" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Juxmineknw?logo=twitter&style=for-the-badge&color=0891b2&labelColor=4c1d95"
+src="https://img.shields.io/twitter/follow/Juxmineknw?logo=twitter&style=for-the-badge&color=4c1d95&labelColor=1c1917"
 /></a>
 
 
