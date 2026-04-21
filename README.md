@@ -8,7 +8,7 @@ UX/UI Designer , Frontend Developer
 * ✉️  You can contact me at [jusmine2003@gmail.com](mailto:jusmine2003@gmail.com)
 * 🧠  I'm learning Laravel , React.js , Docker 
 
-<a href="[https://www.x.com/Juxmineknw](https://encouraging-athlete-350.notion.site/Kanokwan-Boonyo-50ec9c87db3c83cfb73901cee46284a7?source=copy_link)" target="_blank" rel="noreferrer"><img
+<a href="https://encouraging-athlete-350.notion.site/Kanokwan-Boonyo-50ec9c87db3c83cfb73901cee46284a7?source=copy_link" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Juxmineknw?logo=twitter&style=for-the-badge&color=4c1d95&labelColor=1c1917"
 /></a>
 
